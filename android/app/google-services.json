@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "446534662592",
+    "project_id": "neopolis-86bc6",
+    "storage_bucket": "neopolis-86bc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446534662592:android:cf5d4b04283a022663b025",
+        "android_client_info": {
+          "package_name": "com.example.gamenotcreator_evolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446534662592-keq6l15qeqkuph4ikcttnidvu4ie8kug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqD2eaTTqiLeOxy1EvVZ_yCeZ9eI6nQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446534662592-keq6l15qeqkuph4ikcttnidvu4ie8kug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446534662592:android:fdb6c4891fda677e63b025",
+        "android_client_info": {
+          "package_name": "com.gamenotcreator.neopolislogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446534662592-keq6l15qeqkuph4ikcttnidvu4ie8kug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfqD2eaTTqiLeOxy1EvVZ_yCeZ9eI6nQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446534662592-keq6l15qeqkuph4ikcttnidvu4ie8kug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
